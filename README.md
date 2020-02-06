@@ -1,22 +1,7 @@
 # slack-clone-app
 
-> My phenomenal Nuxt.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-$ npm run install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+  slack風のアプリを作成いたしました。  
+  とだこうきさんのnoteを使用しました。  
+  https://note.com/cohki0305/n/ne21cd96137ec?creator_urlname=cohki0305  
+  フロンドエンドで,vueの基礎的な使い方とfirebaseの使い方を学びました。  
+  
